@@ -6,5 +6,5 @@ And of course, when in doubt, [read the docs!](https://docs.python.org/3.5/)
 [Data Structures and Algorithms in Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 #### Language Concepts
-[Classmethods, Staticmethods, and AbstractMethods](https://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)
+[Classmethods, Staticmethods, and AbstractMethods](https://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)  
 [Python Decorators](https://realpython.com/blog/python/primer-on-python-decorators/)
